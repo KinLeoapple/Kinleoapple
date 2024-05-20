@@ -26,8 +26,7 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/KinLeoapple"><img src="https://img.shields.io/badge/GitHub-KinLeoapple-blue?logo=github" /></a>
-<a href="https://xiaokang2022.blog.csdn.net">
-<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-巷陌雨季-pink?logo=bilibili" /></a>
+<a href="https://space.bilibili.com/77531961"><img src="https://img.shields.io/badge/哔哩哔哩-巷陌雨季-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-996711203-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=KinLeoapple&abbreviated=true&color=yellow" />
