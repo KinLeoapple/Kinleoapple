@@ -9,7 +9,6 @@
 </p>
 
 <!-- https://github.com/anmol098/waka-readme-stats -->
-<p align="center">
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -55,7 +54,6 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-</p>
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
