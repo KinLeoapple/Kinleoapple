@@ -11,6 +11,73 @@
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <p align="center">
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 150.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                117 commits         ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+🌆 Daytime                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+🌃 Evening                145 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
+🌙 Night                  134 commits         ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Tuesday                  104 commits         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Wednesday                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Thursday                 90 commits          █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Friday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Saturday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Vue                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Kotlin                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+
+ Last Updated on 22/05/2024 17:02:14 UTC
 <!--END_SECTION:waka-->
 </p>
 
