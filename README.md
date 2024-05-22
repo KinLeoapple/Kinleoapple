@@ -11,31 +11,19 @@
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <p align="center">
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 150.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                117 commits         ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-🌆 Daytime                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-🌃 Evening                145 commits         ████████░░░░░░░░░░░░░░░░░   31.73 % 
-🌙 Night                  136 commits         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+🌞 Morning                117 commits         ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+🌆 Daytime                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+🌃 Evening                145 commits         ████████░░░░░░░░░░░░░░░░░   31.66 % 
+🌙 Night                  137 commits         ███████░░░░░░░░░░░░░░░░░░   29.91 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Australia/Sydney
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -61,8 +49,12 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 22/05/2024 17:10:16 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/KinLeoapple/KinLeoapple/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/05/2024 17:15:06 UTC
 <!--END_SECTION:waka-->
 </p>
 
