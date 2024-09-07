@@ -39,11 +39,11 @@ No Activity Tracked This Week
 **I Mostly Code in Vue** 
 
 ```text
-Vue                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Vue                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Rust                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
