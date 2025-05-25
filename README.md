@@ -24,17 +24,16 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 36 mins        ██████████████████████░░░   88.77 % 
-Pest                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RustRover                1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pawc                     1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
