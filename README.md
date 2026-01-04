@@ -10,6 +10,32 @@
 
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1423 commits        ████████░░░░░░░░░░░░░░░░░   30.50 % 
+🌆 Daytime                1096 commits        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+🌃 Evening                1368 commits        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+🌙 Night                  778 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Vue** 
 
 ```text
