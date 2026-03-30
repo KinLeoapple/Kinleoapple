@@ -10,13 +10,13 @@
 
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1432 commits        ████████░░░░░░░░░░░░░░░░░   30.09 % 
-🌆 Daytime                1130 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-🌃 Evening                1397 commits        ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-🌙 Night                  800 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+🌞 Morning                206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+🌆 Daytime                318 commits         ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+🌃 Evening                435 commits         █████████░░░░░░░░░░░░░░░░   36.65 % 
+🌙 Night                  228 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
 ```
 
 
