@@ -10,13 +10,13 @@
 
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-🌆 Daytime                318 commits         ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-🌃 Evening                435 commits         █████████░░░░░░░░░░░░░░░░   36.65 % 
-🌙 Night                  228 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+🌞 Morning                1448 commits        ████████░░░░░░░░░░░░░░░░░   30.30 % 
+🌆 Daytime                1130 commits        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+🌃 Evening                1399 commits        ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+🌙 Night                  802 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 ```
 
 
@@ -36,14 +36,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Vue** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Rust                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Rust                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
