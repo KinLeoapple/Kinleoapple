@@ -24,16 +24,16 @@
 
 ```text
 💬 Programming Languages: 
-Zig                      39 mins             █████████████████████████   100.00 % 
+Zig                      1 hr 7 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Trae                     39 mins             █████████████████████████   100.00 % 
+Trae                     1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kitty                    39 mins             █████████████████████████   100.00 % 
+kitty                    1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
