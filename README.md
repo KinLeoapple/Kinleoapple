@@ -10,33 +10,6 @@
 
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1432 commits        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-🌆 Daytime                1130 commits        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-🌃 Evening                1410 commits        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-🌙 Night                  815 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Zig                      8 hrs 28 mins       █████████████████████████   99.96 % 
-WebGPU Shading Language  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-Trae                     8 hrs 28 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-kitty                    8 hrs 28 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  8 hrs 28 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Vue** 
 
 ```text
