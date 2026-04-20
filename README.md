@@ -24,17 +24,21 @@
 
 ```text
 💬 Programming Languages: 
-Zig                      8 hrs 22 mins       █████████████████████████   99.96 % 
-WebGPU Shading Language  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Zig                      14 hrs 32 mins      ████████████████████████░   95.32 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+GLSL                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Wavefront Object         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Trae                     8 hrs 22 mins       █████████████████████████   100.00 % 
+Trae                     15 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kitty                    8 hrs 22 mins       █████████████████████████   100.00 % 
+kitty                    7 hrs 54 mins       █████████████░░░░░░░░░░░░   51.77 % 
+Mochi                    7 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.23 % 
 
 💻 Operating System: 
-Windows                  8 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
