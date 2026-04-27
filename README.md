@@ -24,20 +24,19 @@
 
 ```text
 💬 Programming Languages: 
-Zig                      12 hrs 23 mins      ██████████████████████░░░   89.32 % 
-JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-GLSL                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Wavefront Object         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Zig                      5 hrs 44 mins       ██████████████████████░░░   88.18 % 
+JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Wavefront Object         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+GLSL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Trae                     13 hrs 52 mins      █████████████████████████   100.00 % 
+Trae                     6 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Mochi                    13 hrs 52 mins      █████████████████████████   100.00 % 
+Mochi                    6 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
