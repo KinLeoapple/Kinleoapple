@@ -13,10 +13,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1435 commits        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-🌆 Daytime                1130 commits        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-🌃 Evening                1410 commits        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-🌙 Night                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+🌞 Morning                1435 commits        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+🌆 Daytime                1130 commits        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+🌃 Evening                1410 commits        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌙 Night                  819 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 ```
 
 
@@ -24,17 +24,16 @@
 
 ```text
 💬 Programming Languages: 
-Zig                      3 hrs 59 mins       █████████████████████████   99.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     4 hrs               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Mochi                    4 hrs               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
