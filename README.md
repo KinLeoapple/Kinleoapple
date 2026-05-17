@@ -10,40 +10,14 @@
 
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1435 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌆 Daytime                1130 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-🌃 Evening                1412 commits        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-🌙 Night                  822 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Vue** 
 
 ```text
-Rust                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Zig                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Rust                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Zig                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
