@@ -13,10 +13,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1637 commits        ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-🌆 Daytime                1331 commits        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-🌃 Evening                1711 commits        ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-🌙 Night                  1180 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+🌞 Morning                1549 commits        ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌆 Daytime                1243 commits        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+🌃 Evening                1596 commits        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+🌙 Night                  1034 commits        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
 ```
 
 
@@ -42,11 +42,11 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Vue** 
+**I Mostly Code in Rust** 
 
 ```text
-Zig                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Rust                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Rust                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Zig                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
