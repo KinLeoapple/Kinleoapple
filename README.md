@@ -10,13 +10,13 @@
 
 <!-- https://github.com/anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1584 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-🌆 Daytime                1366 commits        ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-🌃 Evening                1718 commits        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-🌙 Night                  1242 commits        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+🌞 Morning                1596 commits        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+🌆 Daytime                1366 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌃 Evening                1718 commits        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+🌙 Night                  1242 commits        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
 ```
 
 
@@ -45,11 +45,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Zig                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Rust                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Zig                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
